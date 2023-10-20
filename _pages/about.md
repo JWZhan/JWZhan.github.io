@@ -14,28 +14,28 @@ He actively participated in the research work of the bionic robot and intelligen
 
 Educational experience
 ======
-●2021.09 - present: Anhui University, Control Science and Engineering (Master's degree)
+●2021.09 - present: Anhui University, Control Science and Engineering (Master's degree)\
 ●2016.09 - 2020.07: Hefei University of Technology, Vehicle Engineering (Bachelor's degree)
 
 Honors & Awards
 ======
-●2016 Hefei University of Technology Individual Scholarship, 2017 Hefei University of Technology Sports Activity Award, 2018 Hefei University of Technology Third Class Scholarship
-●2021 Anhui University Graduate Third Class Scholarship, 2022 Anhui University Graduate First Class Scholarship
-●Anhui Bronze Award of the 9th "Internet plus" Undergraduate Innovation and Entrepreneurship Competition in 2023 (EIT multiphase flow detection system)
+●2016 Hefei University of Technology Individual Scholarship, 2017 Hefei University of Technology Sports Activity Award, 2018 Hefei University of Technology Third Class Scholarship\
+●2021 Anhui University Graduate Third Class Scholarship, 2022 Anhui University Graduate First Class Scholarship\
+●Anhui Bronze Award of the 9th "Internet plus" Undergraduate Innovation and Entrepreneurship Competition in 2023 (EIT multiphase flow detection system)\
 
 Skills Certificate
 ======
-●National College English Test Band 6 (515)
-●National Computer Test Band 2
-●Mandarin Test Band 2 Grade A
-●High School Mathematics Teacher Qualification Certificate
+●National College English Test Band 6 (515)\
+●National Computer Test Band 2\
+●Mandarin Test Band 2 Grade A\
+●High School Mathematics Teacher Qualification Certificate\
 ●National Electronic Organ Examination Level 10
 
 Personal hobbies
 ======
-● Calligraphy: regular script, running regular script, etc., ancient poetry and prose;
+● Calligraphy: regular script, running regular script, etc., ancient poetry and prose
 ● Sports: Basketball, badminton, table tennis, etc
-● Photography and video editing; Electronic organ.
+● Photography and video editing; Electronic organ
 
 How to edit your site's GitHub repository
 ======
