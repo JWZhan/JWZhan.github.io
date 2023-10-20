@@ -21,7 +21,7 @@ Honors & Awards
 ======
 ●2016 Hefei University of Technology Individual Scholarship, 2017 Hefei University of Technology Sports Activity Award, 2018 Hefei University of Technology Third Class Scholarship\
 ●2021 Anhui University Graduate Third Class Scholarship, 2022 Anhui University Graduate First Class Scholarship\
-●Anhui Bronze Award of the 9th "Internet plus" Undergraduate Innovation and Entrepreneurship Competition in 2023 (EIT multiphase flow detection system)\
+●Anhui Bronze Award of the 9th "Internet plus" Undergraduate Innovation and Entrepreneurship Competition in 2023 (EIT multiphase flow detection system)
 
 Skills Certificate
 ======
