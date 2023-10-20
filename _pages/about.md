@@ -24,7 +24,7 @@ Honors & Awards
 ●Anhui Bronze Award of the 9th "Internet plus" Undergraduate Innovation and Entrepreneurship Competition in 2023 (EIT multiphase flow detection system)
 
 Skills Certificate
-------
+======
 ●National College English Test Band 6 (515)
 ●National Computer Test Band 2
 ●Mandarin Test Band 2 Grade A
@@ -32,13 +32,13 @@ Skills Certificate
 ●National Electronic Organ Examination Level 10
 
 Personal hobbies
-------
+======
 ● Calligraphy: regular script, running regular script, etc., ancient poetry and prose;
 ● Sports: Basketball, badminton, table tennis, etc
 ● Photography and video editing; Electronic organ.
 
 How to edit your site's GitHub repository
-------
+======
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
 Example: editing a markdown file for a talk
