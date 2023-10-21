@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zhan Jingwei obtained a Bachelor's degree in Vehicle Engineering from Hefei University of Technology in China in 2020. He is currently studying for a master's degree in control science and engineering at the joint training office of Anhui University and the Chinese Academy of Sciences Hefei Institute of Physical Sciences.
+Jingwei Zhan obtained a Bachelor's degree in Vehicle Engineering from Hefei University of Technology in China in 2020. He is currently studying for a master's degree in control science and engineering at the joint training office of Anhui University and the Chinese Academy of Sciences Hefei Institute of Physical Sciences.
 
 He actively participated in the research work of the bionic robot and intelligent materials laboratory of the Institute of Advanced Manufacturing Technology of the Chinese Academy of Sciences. His main research contents include the design and analysis of the robot hand and the modeling and analysis of flexible driving technology. Its research fields cover mechanical mechanisms, machine learning, mechanics, and other aspects.
 
