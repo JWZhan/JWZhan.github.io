@@ -33,8 +33,8 @@ Skills Certificate
 
 Personal hobbies
 ======
-● Calligraphy: regular script, running regular script, etc., ancient poetry and prose
-● Sports: Basketball, badminton, table tennis, etc
+● Calligraphy: regular script, running regular script, etc., ancient poetry and prose\
+● Sports: Basketball, badminton, table tennis, etc\
 ● Photography and video editing; Electronic organ
 
 How to edit your site's GitHub repository
